@@ -1,0 +1,1 @@
+{"columns":[{"name":"color","datatype":"Utf8","bit_settings":"","values":["rojo","azul","verde"]},{"name":"edad","datatype":"Utf8","bit_settings":"","values":["23","56","32"]},{"name":"fecha","datatype":"Utf8","bit_settings":"","values":["2021-02-21","2021-06-10","2020-06-02"]},{"name":"pais","datatype":"Utf8","bit_settings":"","values":["MX","CA","US"]}]}
