@@ -1,3 +1,5 @@
+<img src='./img/banner.png'>
+
 # Aprende a manipular datos con Polars y Python
 
 Este repositorio de GitHub contiene los materiales del curso [Aprende a manipular datos con Polars y Python](https://www.udemy.com/course/draft/5847554/?referralCode=CC83B445E40FD2FF1B60). El curso está diseñado para enseñar a los participantes cómo usar la librería Polars para la manipulación eficiente de datos en Python.
