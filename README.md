@@ -26,6 +26,8 @@ Cada Jupyter Notebook en el repositorio contiene:
 
 El repositorio también incluye enlaces a la documentación oficial de Polars para que los participantes puedan profundizar en los conceptos que lo ameriten.
 
+## Conclusión
+
 Este repositorio de GitHub es un recurso valioso para aprender a manipular datos con Polars y Python. La estructura organizada, los Jupyter Notebooks detallados y los recursos adicionales hacen que este curso sea ideal para principiantes y usuarios intermedios que desean dominar Polars para sus tareas de análisis de datos.
 
 
